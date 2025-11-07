@@ -1,0 +1,81 @@
+{
+  "title": "How It Works",
+  "subtitle": "Download Pinterest content in 3 simple steps",
+  "steps": [
+    {
+      "number": 1,
+      "icon": "Copy",
+      "title": "Copy Pinterest URL",
+      "description": "Find the Pinterest video or image you want to download. Copy the URL from your browser's address bar or use the share button to copy the link."
+    },
+    {
+      "number": 2,
+      "icon": "Link",
+      "title": "Paste URL",
+      "description": "Paste the Pinterest URL into our download box above and click the Download button. Our servers will instantly fetch the content."
+    },
+    {
+      "number": 3,
+      "icon": "Download",
+      "title": "Download Content",
+      "description": "Choose your preferred quality and format, then click download. Your file will be saved to your device in seconds."
+    }
+  ],
+  "contentTypes": [
+    {
+      "type": "Videos",
+      "icon": "Video",
+      "description": "Download Pinterest videos in HD quality. Supports all video formats including MP4.",
+      "features": [
+        "HD quality downloads",
+        "Multiple resolution options",
+        "No watermarks",
+        "Fast processing"
+      ]
+    },
+    {
+      "type": "Images",
+      "icon": "Image",
+      "description": "Save Pinterest images in original quality. Perfect for designers and content creators.",
+      "features": [
+        "Original quality",
+        "All image formats",
+        "Bulk download support",
+        "High resolution"
+      ]
+    },
+    {
+      "type": "GIFs",
+      "icon": "Film",
+      "title": "GIFs & Animations",
+      "description": "Download animated GIFs and Pinterest animations with ease.",
+      "features": [
+        "Preserve animation",
+        "Original quality",
+        "Fast downloads",
+        "All formats supported"
+      ]
+    }
+  ],
+  "troubleshooting": {
+    "title": "Troubleshooting Tips",
+    "tips": [
+      {
+        "problem": "Download not starting",
+        "solution": "Make sure you've copied the complete Pinterest URL. The URL should start with https://www.pinterest.com/"
+      },
+      {
+        "problem": "Low quality video",
+        "solution": "Try selecting a higher quality option from the download menu. Some videos may only be available in certain qualities."
+      },
+      {
+        "problem": "Error message appears",
+        "solution": "The content might be private or deleted. Try refreshing the Pinterest page and copying the URL again."
+      },
+      {
+        "problem": "Slow download speed",
+        "solution": "Check your internet connection. Large files may take longer to download depending on your connection speed."
+      }
+    ]
+  }
+}

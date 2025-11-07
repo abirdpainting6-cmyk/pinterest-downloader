@@ -1,0 +1,94 @@
+{
+  "title": "Chrome Extension",
+  "subtitle": "Download Pinterest content with one click",
+  "hero": {
+    "title": "PinDownloader Chrome Extension",
+    "description": "Install our Chrome extension for the fastest way to download Pinterest content. Add a download button directly to Pinterest pages.",
+    "downloadUrl": "/chrome-extension/pindownloader-extension.zip",
+    "webStoreUrl": "https://chrome.google.com/webstore/detail/pindownloader"
+  },
+  "features": [
+    {
+      "icon": "Zap",
+      "title": "One-Click Downloads",
+      "description": "Download button appears directly on Pinterest pages. No need to copy and paste URLs."
+    },
+    {
+      "icon": "Smartphone",
+      "title": "Lightweight & Fast",
+      "description": "Minimal resource usage. Won't slow down your browser."
+    },
+    {
+      "icon": "Shield",
+      "title": "Safe & Secure",
+      "description": "Only requests necessary permissions. No data collection or tracking."
+    },
+    {
+      "icon": "Download",
+      "title": "Multiple Formats",
+      "description": "Download videos, images, and GIFs in various quality options."
+    },
+    {
+      "icon": "Settings",
+      "title": "Customizable",
+      "description": "Configure default quality settings and download location."
+    },
+    {
+      "icon": "Globe",
+      "title": "Always Updated",
+      "description": "Regular updates to ensure compatibility with Pinterest changes."
+    }
+  ],
+  "installation": {
+    "title": "How to Install",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Download the Extension",
+        "description": "Click the download button above or visit the Chrome Web Store."
+      },
+      {
+        "number": 2,
+        "title": "Install in Chrome",
+        "description": "If downloaded as ZIP, extract it and load it in Chrome via chrome://extensions/ with Developer Mode enabled. Or install directly from Web Store."
+      },
+      {
+        "number": 3,
+        "title": "Pin the Extension",
+        "description": "Click the puzzle icon in Chrome toolbar and pin PinDownloader for easy access."
+      },
+      {
+        "number": 4,
+        "title": "Start Downloading",
+        "description": "Visit any Pinterest page and click the download button that appears on pins."
+      }
+    ]
+  },
+  "videoTutorial": {
+    "title": "Video Tutorial",
+    "videoUrl": "https://www.youtube.com/embed/example",
+    "description": "Watch our step-by-step video guide on installing and using the Chrome extension."
+  },
+  "faq": [
+    {
+      "question": "Is the extension free?",
+      "answer": "Yes, the Chrome extension is completely free, just like our website."
+    },
+    {
+      "question": "What permissions does it need?",
+      "answer": "The extension only needs permission to access Pinterest pages and communicate with our download API. We don't collect any personal data."
+    },
+    {
+      "question": "Will it slow down my browser?",
+      "answer": "No, the extension is very lightweight and only activates on Pinterest pages."
+    },
+    {
+      "question": "Can I use it on other browsers?",
+      "answer": "Currently, we only support Chrome and Chromium-based browsers (Edge, Brave, etc.). Firefox support is coming soon."
+    },
+    {
+      "question": "How do I report a bug?",
+      "answer": "Use the 'Report Issue' link in the extension popup or contact us through our contact page."
+    }
+  ]
+}

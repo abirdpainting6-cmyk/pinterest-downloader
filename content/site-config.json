@@ -1,0 +1,22 @@
+{
+  "siteName": "PinDownloader",
+  "tagline": "Download Pinterest Videos & Images Instantly",
+  "description": "Fast, free, and easy Pinterest downloader. Download videos, images, and GIFs from Pinterest in high quality without watermarks.",
+  "url": "https://pindownloader.com",
+  "logo": "/logo.png",
+  "favicon": "/favicon.ico",
+  "colors": {
+    "primary": "#E60023",
+    "secondary": "#111111",
+    "accent": "#F1F1F1"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pindownloader",
+    "facebook": "https://facebook.com/pindownloader",
+    "instagram": "https://instagram.com/pindownloader"
+  },
+  "contact": {
+    "email": "support@pindownloader.com",
+    "supportEmail": "support@pindownloader.com"
+  }
+}

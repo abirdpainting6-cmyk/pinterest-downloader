@@ -1,0 +1,90 @@
+{
+  "title": "Frequently Asked Questions",
+  "subtitle": "Find answers to common questions about our Pinterest downloader",
+  "categories": [
+    {
+      "name": "General",
+      "questions": [
+        {
+          "question": "Is PinDownloader free to use?",
+          "answer": "Yes! PinDownloader is completely free to use. There are no hidden fees, subscriptions, or premium plans. You can download unlimited Pinterest content without any restrictions."
+        },
+        {
+          "question": "Do I need to create an account?",
+          "answer": "No account is required. Simply paste the Pinterest URL and download. We don't collect any personal information or require registration."
+        },
+        {
+          "question": "Is it legal to download Pinterest content?",
+          "answer": "You should only download content that you have permission to use. Respect copyright laws and the original creator's rights. Our tool is provided for personal use and fair use purposes only."
+        },
+        {
+          "question": "What devices are supported?",
+          "answer": "PinDownloader works on all devices including Windows, Mac, Linux, iOS, and Android. As long as you have a web browser, you can use our service."
+        }
+      ]
+    },
+    {
+      "name": "Downloads",
+      "questions": [
+        {
+          "question": "What quality are the downloads?",
+          "answer": "We provide the highest quality available from Pinterest. For videos, you can choose from multiple quality options including HD. Images are downloaded in their original resolution."
+        },
+        {
+          "question": "Are there watermarks on downloaded content?",
+          "answer": "No, we don't add any watermarks to your downloads. You'll get the original content exactly as it appears on Pinterest."
+        },
+        {
+          "question": "How long does it take to download?",
+          "answer": "Most downloads complete within seconds. The exact time depends on the file size and your internet connection speed."
+        },
+        {
+          "question": "Can I download multiple items at once?",
+          "answer": "Currently, you need to download items one at a time. However, the process is very fast, so you can quickly download multiple items in succession."
+        },
+        {
+          "question": "What file formats are supported?",
+          "answer": "Videos are downloaded as MP4 files, images as JPG or PNG (depending on the original), and GIFs maintain their animated format."
+        }
+      ]
+    },
+    {
+      "name": "Technical",
+      "questions": [
+        {
+          "question": "Why isn't my download working?",
+          "answer": "Common issues include: incorrect URL format, private or deleted content, or temporary Pinterest API issues. Make sure you're copying the complete URL from Pinterest. If problems persist, try refreshing the page and trying again."
+        },
+        {
+          "question": "Do you store my downloaded content?",
+          "answer": "No, we don't store any content. Downloads are processed in real-time and sent directly to your device. We don't keep copies of any downloaded files."
+        },
+        {
+          "question": "Is my data safe?",
+          "answer": "Yes, we take privacy seriously. We don't collect personal information, track your downloads, or share data with third parties. See our Privacy Policy for more details."
+        },
+        {
+          "question": "Can I use this on mobile?",
+          "answer": "Absolutely! Our website is fully responsive and works perfectly on mobile devices. You can also install our Chrome extension for easier access."
+        }
+      ]
+    },
+    {
+      "name": "Chrome Extension",
+      "questions": [
+        {
+          "question": "What is the Chrome extension?",
+          "answer": "Our Chrome extension adds a download button directly to Pinterest pages, making it even easier to save content. It connects to the same backend as our website."
+        },
+        {
+          "question": "Is the extension safe?",
+          "answer": "Yes, our extension is completely safe. It only requests the minimum permissions needed to function and doesn't collect any personal data."
+        },
+        {
+          "question": "How do I install the extension?",
+          "answer": "Visit our Chrome Extension page for detailed installation instructions. You can install it directly from the Chrome Web Store."
+        }
+      ]
+    }
+  ]
+}

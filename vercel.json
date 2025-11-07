@@ -1,0 +1,13 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "env": {
+    "THORDATA_API_KEY": "@thordata_api_key",
+    "THORDATA_API_URL": "@thordata_api_url",
+    "NEXT_PUBLIC_SITE_URL": "@next_public_site_url",
+    "NEXT_PUBLIC_API_URL": "@next_public_api_url",
+    "CONTACT_EMAIL": "@contact_email"
+  }
+}

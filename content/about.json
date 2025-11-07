@@ -1,0 +1,60 @@
+{
+  "title": "About PinDownloader",
+  "subtitle": "Your trusted Pinterest content downloader",
+  "story": {
+    "title": "Our Story",
+    "content": "PinDownloader was created with a simple mission: to make downloading Pinterest content easy, fast, and accessible to everyone. We noticed that many existing tools were complicated, filled with ads, or required unnecessary registrations. We wanted to create something better.\n\nSince our launch, we've helped millions of users download their favorite Pinterest content. Whether you're a content creator, designer, marketer, or just someone who loves collecting inspiration, we're here to make your life easier.\n\nOur team is dedicated to maintaining a fast, reliable, and user-friendly service. We continuously improve our platform based on user feedback and the latest technology."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "content": "To provide the fastest, most reliable, and user-friendly Pinterest downloading service while respecting user privacy and content creators' rights."
+  },
+  "values": [
+    {
+      "icon": "Users",
+      "title": "User-First",
+      "description": "We prioritize user experience above all else. No ads, no registration, no hassle."
+    },
+    {
+      "icon": "Shield",
+      "title": "Privacy",
+      "description": "We don't collect personal data or track your downloads. Your privacy is paramount."
+    },
+    {
+      "icon": "Zap",
+      "title": "Speed",
+      "description": "Our optimized servers ensure lightning-fast downloads every time."
+    },
+    {
+      "icon": "Heart",
+      "title": "Free Forever",
+      "description": "We believe in free access to tools. PinDownloader will always be free."
+    }
+  ],
+  "statistics": [
+    {
+      "number": "10M+",
+      "label": "Total Downloads",
+      "description": "Millions of successful downloads since launch"
+    },
+    {
+      "number": "500K+",
+      "label": "Active Users",
+      "description": "Users from around the world trust our service"
+    },
+    {
+      "number": "150+",
+      "label": "Countries",
+      "description": "Available worldwide in multiple languages"
+    },
+    {
+      "number": "99.9%",
+      "label": "Uptime",
+      "description": "Reliable service you can count on"
+    }
+  ],
+  "legal": {
+    "title": "Legal & DMCA",
+    "content": "PinDownloader respects intellectual property rights and complies with the Digital Millennium Copyright Act (DMCA). We provide tools for personal use and fair use purposes only.\n\nUsers are responsible for ensuring they have the right to download and use any content. We do not host, store, or distribute any content - we simply provide a tool to access publicly available content from Pinterest.\n\nIf you believe your copyrighted work has been downloaded through our service in a way that constitutes copyright infringement, please contact us with a DMCA notice at our support email."
+  }
+}

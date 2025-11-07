@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "title": "Download Pinterest Videos & Images",
+    "subtitle": "Fast, free, and easy. Download any Pinterest content in high quality without watermarks.",
+    "ctaText": "Download Now",
+    "placeholder": "Paste Pinterest URL here..."
+  },
+  "features": [
+    {
+      "icon": "Zap",
+      "title": "Lightning Fast",
+      "description": "Download Pinterest content in seconds with our optimized servers"
+    },
+    {
+      "icon": "Shield",
+      "title": "100% Safe & Secure",
+      "description": "No registration required. Your privacy is our priority"
+    },
+    {
+      "icon": "Download",
+      "title": "High Quality Downloads",
+      "description": "Get original quality videos and images without watermarks"
+    },
+    {
+      "icon": "Smartphone",
+      "title": "Works on All Devices",
+      "description": "Download from any device - desktop, mobile, or tablet"
+    },
+    {
+      "icon": "Video",
+      "title": "Videos & Images",
+      "description": "Support for all Pinterest content types including GIFs"
+    },
+    {
+      "icon": "Globe",
+      "title": "No Software Needed",
+      "description": "Works directly in your browser. No apps or extensions required"
+    }
+  ],
+  "whyUseUs": {
+    "title": "Why Choose PinDownloader?",
+    "description": "We provide the fastest and most reliable Pinterest downloading service. Our tool is completely free, requires no registration, and works seamlessly across all devices.",
+    "benefits": [
+      "Unlimited downloads with no restrictions",
+      "No watermarks on downloaded content",
+      "Support for videos, images, and GIFs",
+      "Fast download speeds with optimized servers",
+      "Mobile-friendly interface",
+      "Regular updates and improvements"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Sarah Johnson",
+      "role": "Content Creator",
+      "avatar": "SJ",
+      "text": "This is the best Pinterest downloader I've used! Fast, reliable, and no annoying ads. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "name": "Michael Chen",
+      "role": "Digital Marketer",
+      "avatar": "MC",
+      "text": "I use this daily for my work. The quality is always perfect and it's so easy to use. Love it!",
+      "rating": 5
+    },
+    {
+      "name": "Emma Davis",
+      "role": "Designer",
+      "avatar": "ED",
+      "text": "Finally, a Pinterest downloader that actually works! No registration, no hassle. Just paste and download.",
+      "rating": 5
+    }
+  ],
+  "stats": [
+    {
+      "number": "10M+",
+      "label": "Downloads"
+    },
+    {
+      "number": "500K+",
+      "label": "Happy Users"
+    },
+    {
+      "number": "99.9%",
+      "label": "Uptime"
+    },
+    {
+      "number": "24/7",
+      "label": "Support"
+    }
+  ]
+}

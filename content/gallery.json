@@ -1,0 +1,67 @@
+{
+  "title": "Recent Downloads",
+  "subtitle": "See what others are downloading from Pinterest",
+  "description": "Browse through recently downloaded Pinterest content. All downloads are processed in real-time with high quality.",
+  "sampleDownloads": [
+    {
+      "id": 1,
+      "type": "image",
+      "thumbnail": "/gallery/sample-1.jpg",
+      "title": "Beautiful Landscape Photography",
+      "category": "Photography",
+      "downloads": 1234
+    },
+    {
+      "id": 2,
+      "type": "video",
+      "thumbnail": "/gallery/sample-2.jpg",
+      "title": "DIY Home Decor Tutorial",
+      "category": "DIY",
+      "downloads": 856
+    },
+    {
+      "id": 3,
+      "type": "image",
+      "thumbnail": "/gallery/sample-3.jpg",
+      "title": "Recipe Collection",
+      "category": "Food",
+      "downloads": 2341
+    },
+    {
+      "id": 4,
+      "type": "gif",
+      "thumbnail": "/gallery/sample-4.jpg",
+      "title": "Animated Art",
+      "category": "Art",
+      "downloads": 567
+    },
+    {
+      "id": 5,
+      "type": "video",
+      "thumbnail": "/gallery/sample-5.jpg",
+      "title": "Fashion Inspiration",
+      "category": "Fashion",
+      "downloads": 1890
+    },
+    {
+      "id": 6,
+      "type": "image",
+      "thumbnail": "/gallery/sample-6.jpg",
+      "title": "Interior Design Ideas",
+      "category": "Design",
+      "downloads": 3421
+    }
+  ],
+  "categories": [
+    "All",
+    "Photography",
+    "DIY",
+    "Food",
+    "Art",
+    "Fashion",
+    "Design",
+    "Travel",
+    "Fitness",
+    "Beauty"
+  ]
+}
